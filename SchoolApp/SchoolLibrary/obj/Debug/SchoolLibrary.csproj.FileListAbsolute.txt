@@ -1,0 +1,5 @@
+C:\Users\rak\documents\visual studio 2015\Projects\SchoolApp\SchoolLibrary\bin\Debug\SchoolLibrary.dll
+C:\Users\rak\documents\visual studio 2015\Projects\SchoolApp\SchoolLibrary\bin\Debug\SchoolLibrary.pdb
+C:\Users\rak\documents\visual studio 2015\Projects\SchoolApp\SchoolLibrary\obj\Debug\SchoolLibrary.csprojResolveAssemblyReference.cache
+C:\Users\rak\documents\visual studio 2015\Projects\SchoolApp\SchoolLibrary\obj\Debug\SchoolLibrary.dll
+C:\Users\rak\documents\visual studio 2015\Projects\SchoolApp\SchoolLibrary\obj\Debug\SchoolLibrary.pdb

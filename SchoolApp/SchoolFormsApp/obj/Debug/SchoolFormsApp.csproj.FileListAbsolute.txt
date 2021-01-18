@@ -1,0 +1,11 @@
+C:\Users\rak\documents\visual studio 2015\Projects\SchoolApp\SchoolFormsApp\bin\Debug\SchoolFormsApp.exe.config
+C:\Users\rak\documents\visual studio 2015\Projects\SchoolApp\SchoolFormsApp\bin\Debug\SchoolFormsApp.exe
+C:\Users\rak\documents\visual studio 2015\Projects\SchoolApp\SchoolFormsApp\bin\Debug\SchoolFormsApp.pdb
+C:\Users\rak\documents\visual studio 2015\Projects\SchoolApp\SchoolFormsApp\bin\Debug\SchoolLibrary.dll
+C:\Users\rak\documents\visual studio 2015\Projects\SchoolApp\SchoolFormsApp\bin\Debug\SchoolLibrary.pdb
+C:\Users\rak\documents\visual studio 2015\Projects\SchoolApp\SchoolFormsApp\obj\Debug\SchoolFormsApp.csprojResolveAssemblyReference.cache
+C:\Users\rak\documents\visual studio 2015\Projects\SchoolApp\SchoolFormsApp\obj\Debug\SchoolFormsApp.Properties.Resources.resources
+C:\Users\rak\documents\visual studio 2015\Projects\SchoolApp\SchoolFormsApp\obj\Debug\SchoolFormsApp.csproj.GenerateResource.Cache
+C:\Users\rak\documents\visual studio 2015\Projects\SchoolApp\SchoolFormsApp\obj\Debug\SchoolFormsApp.exe
+C:\Users\rak\documents\visual studio 2015\Projects\SchoolApp\SchoolFormsApp\obj\Debug\SchoolFormsApp.pdb
+C:\Users\rak\documents\visual studio 2015\Projects\SchoolApp\SchoolFormsApp\obj\Debug\SchoolFormsApp.Form1.resources
