@@ -1,0 +1,7 @@
+c:\users\rak\documents\visual studio 2015\Projects\EssentialTraining\EssentialTrainingTest\bin\Debug\EssentialTrainingTest.dll
+c:\users\rak\documents\visual studio 2015\Projects\EssentialTraining\EssentialTrainingTest\bin\Debug\EssentialTrainingTest.pdb
+c:\users\rak\documents\visual studio 2015\Projects\EssentialTraining\EssentialTrainingTest\bin\Debug\EssentialTraining.dll
+c:\users\rak\documents\visual studio 2015\Projects\EssentialTraining\EssentialTrainingTest\bin\Debug\EssentialTraining.pdb
+c:\users\rak\documents\visual studio 2015\Projects\EssentialTraining\EssentialTrainingTest\obj\Debug\EssentialTrainingTest.csprojResolveAssemblyReference.cache
+c:\users\rak\documents\visual studio 2015\Projects\EssentialTraining\EssentialTrainingTest\obj\Debug\EssentialTrainingTest.dll
+c:\users\rak\documents\visual studio 2015\Projects\EssentialTraining\EssentialTrainingTest\obj\Debug\EssentialTrainingTest.pdb
