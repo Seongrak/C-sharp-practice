@@ -1,0 +1,6 @@
+c:\users\rak\documents\visual studio 2015\Projects\BinarySearch\BinarySearch\bin\Debug\BinarySearch.exe.config
+C:\Users\rak\documents\visual studio 2015\Projects\BinarySearch\BinarySearch\bin\Debug\BinarySearch.exe
+C:\Users\rak\documents\visual studio 2015\Projects\BinarySearch\BinarySearch\bin\Debug\BinarySearch.pdb
+C:\Users\rak\documents\visual studio 2015\Projects\BinarySearch\BinarySearch\obj\Debug\BinarySearch.csprojResolveAssemblyReference.cache
+C:\Users\rak\documents\visual studio 2015\Projects\BinarySearch\BinarySearch\obj\Debug\BinarySearch.exe
+C:\Users\rak\documents\visual studio 2015\Projects\BinarySearch\BinarySearch\obj\Debug\BinarySearch.pdb

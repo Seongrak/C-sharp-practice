@@ -1,0 +1,6 @@
+c:\users\rak\documents\visual studio 2015\Projects\LinearSearch\LinearSearch\bin\Debug\LinearSearch.exe.config
+c:\users\rak\documents\visual studio 2015\Projects\LinearSearch\LinearSearch\bin\Debug\LinearSearch.exe
+c:\users\rak\documents\visual studio 2015\Projects\LinearSearch\LinearSearch\bin\Debug\LinearSearch.pdb
+c:\users\rak\documents\visual studio 2015\Projects\LinearSearch\LinearSearch\obj\Debug\LinearSearch.csprojResolveAssemblyReference.cache
+c:\users\rak\documents\visual studio 2015\Projects\LinearSearch\LinearSearch\obj\Debug\LinearSearch.exe
+c:\users\rak\documents\visual studio 2015\Projects\LinearSearch\LinearSearch\obj\Debug\LinearSearch.pdb

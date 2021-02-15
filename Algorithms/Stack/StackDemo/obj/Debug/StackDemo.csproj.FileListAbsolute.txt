@@ -1,0 +1,6 @@
+C:\Users\rak\Documents\Visual Studio 2015\Projects\Stack\StackDemo\bin\Debug\StackDemo.exe.config
+C:\Users\rak\Documents\Visual Studio 2015\Projects\Stack\StackDemo\bin\Debug\StackDemo.exe
+C:\Users\rak\Documents\Visual Studio 2015\Projects\Stack\StackDemo\bin\Debug\StackDemo.pdb
+C:\Users\rak\Documents\Visual Studio 2015\Projects\Stack\StackDemo\obj\Debug\StackDemo.csprojResolveAssemblyReference.cache
+C:\Users\rak\Documents\Visual Studio 2015\Projects\Stack\StackDemo\obj\Debug\StackDemo.exe
+C:\Users\rak\Documents\Visual Studio 2015\Projects\Stack\StackDemo\obj\Debug\StackDemo.pdb
